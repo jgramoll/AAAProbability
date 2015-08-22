@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/UnitForm.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/Results.qml</file>
+    </qresource>
+</RCC>
